@@ -1,0 +1,57 @@
+    <section class="contact" id="quick-contact">
+        <div class="container">
+            <div class="row">
+                <!-- TITLE SECTION [START]-->
+                <div class="title_section wow fadeInDown">
+                    <h2><strong>SAY HELLO!</strong></h2>
+                </div>
+                <!-- TITLE SECTION [END] --> 
+            </div>
+            <div class="row">
+                <div class="col-md-12">
+                    <form class="form">
+                        <!-- INPUT NAME [START] -->
+                        <div class="col-sm-6">
+                            <div class="input_form">
+                                <i class="fa fa-user" aria-hidden="true"></i>
+                                <input class="form-control" name="name" type="text" placeholder="Your Name" required="" >
+                            </div>
+                        </div>
+                        <!-- INPUT NAME [END] -->
+
+                        <!-- INPUT EMAIL [START] -->
+                        <div class="col-sm-6">
+                            <div class="input_form">
+                                <i class="fa fa-envelope" aria-hidden="true"></i>
+                                <input class="form-control" name="email" type="email" placeholder="Your Email" required="" >
+                            </div>
+                        </div>
+                        <!-- INPUT EMAIL [END] -->
+
+                        <!-- TEXTAREA  [START] -->
+                        <div class="col-sm-12">
+                            <div class="input_form">
+                                <i class="fa fa-comments-o" aria-hidden="true"></i>
+                                <textarea class="form-control" name="message" id="textarea" cols="30" rows="10" placeholder="Your Message..."></textarea>
+                            </div>
+                        </div>
+                        <!-- TEXTAREA  [END] -->
+
+                        <!-- BUTTON SEND [START] -->
+                        <div class="col-sm-6">
+                            <button type="submit" class="btn button_send">Submit Your Message!</button>
+                        </div>
+                        <div class="col-sm-6 sent_message">
+                            <p>Your message Sent !</p>
+                        </div>
+                        <!-- BUTTON SEND [END] -->
+                    </form>
+                </div>
+            </div>
+        </div>
+    </section>
+
+
+
+
+490 line

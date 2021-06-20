@@ -1,0 +1,22 @@
+HTTrack3.49-2+htsswf+htsjava launched on Sun, 13 Jun 2021 11:18:26 at http://cadeniuc.ru/jorel/particle.html +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar -*http://cadeniuc.ru/jorel/particle.html* +*http://cadeniuc.ru/jorel/particle.html*
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" http://cadeniuc.ru/jorel/particle.html -%L http://cadeniuc.ru/jorel/particle.html -O1 "E:\TenderJo_Project\HTML_Project\Temp_CV2\Temp_CV2" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar -*http://cadeniuc.ru/jorel/particle.html* +*http://cadeniuc.ru/jorel/particle.html* )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+11:18:26	Error: 	Could not include URL list: http://cadeniuc.ru/jorel/particle.html
+11:21:29	Error: 	"Not Found" (404) at link cadeniuc.ru/jorel/libs/bootstrap/fonts/glyphicons-halflings-regular.eot (from cadeniuc.ru/jorel/libs/bootstrap/css/bootstrap.min.css)
+11:21:29	Error: 	"Not Found" (404) at link cadeniuc.ru/jorel/libs/bootstrap/fonts/glyphicons-halflings-regular.eot? (from cadeniuc.ru/jorel/libs/bootstrap/css/bootstrap.min.css)
+11:21:29	Error: 	"Not Found" (404) at link cadeniuc.ru/jorel/libs/bootstrap/fonts/glyphicons-halflings-regular.woff2 (from cadeniuc.ru/jorel/libs/bootstrap/css/bootstrap.min.css)
+11:21:29	Error: 	"Not Found" (404) at link cadeniuc.ru/jorel/libs/bootstrap/fonts/glyphicons-halflings-regular.woff (from cadeniuc.ru/jorel/libs/bootstrap/css/bootstrap.min.css)
+11:21:29	Error: 	"Not Found" (404) at link cadeniuc.ru/jorel/libs/bootstrap/fonts/glyphicons-halflings-regular.ttf (from cadeniuc.ru/jorel/libs/bootstrap/css/bootstrap.min.css)
+11:21:29	Error: 	"Not Found" (404) at link cadeniuc.ru/jorel/libs/bootstrap/fonts/glyphicons-halflings-regular.svg (from cadeniuc.ru/jorel/libs/bootstrap/css/bootstrap.min.css)
+11:21:29	Error: 	"Not Found" (404) at link cadeniuc.ru/jorel/libs/owlcarousel/css/AjaxLoader.gif (from cadeniuc.ru/jorel/libs/owlcarousel/css/owl.theme.css)
+11:22:44	Error: 	"Not Found" (404) at link cadeniuc.ru/jorel/Popover requires tooltip.js (from cadeniuc.ru/jorel/libs/bootstrap/js/bootstrap.min.js)
+11:22:44	Error: 	"Not Found" (404) at link cadeniuc.ru/jorel/GET (from cadeniuc.ru/jorel/libs/particles/js/particles.min.js)
+11:22:44	Error: 	"Not Found" (404) at link cadeniuc.ru/jorel/Error pJS - No image.src (from cadeniuc.ru/jorel/libs/particles/js/particles.min.js)
+
+HTTrack Website Copier/3.49-2 mirror complete in 4 minutes 18 seconds : 44 links scanned, 33 files written (6758953 bytes overall) [6365514 bytes received at 24672 bytes/sec], 558079 bytes transferred using HTTP compression in 33 files, ratio 23%, 4.4 requests per connection
+(11 errors, 0 warnings, 0 messages)
